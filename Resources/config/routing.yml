@@ -1,0 +1,3 @@
+kpicaza_frontend_homepage:
+    path:     /
+    defaults: { _controller: KpicazaFrontendBundle:Default:index }
